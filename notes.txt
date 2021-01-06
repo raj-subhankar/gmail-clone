@@ -1,0 +1,12 @@
+BEM convention
+section section--selected is still BEM
+
+CSS modifier
+className={`section ${selected && ${selected && 'section--selected'}`}
+
+For sidebar use a reusable component instead of hard coding it
+
+embedded style tags
+ useHistory
+
+react hook form
